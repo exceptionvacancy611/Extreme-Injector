@@ -1,4 +1,4 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/1d946f8e-9691-4c10-a38a-fb8554ed9aad" />
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/1d946f8e-9691-4c10-a38a-fb8554ed9aad" />
 
 #  Extreme Injector
 
